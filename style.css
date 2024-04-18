@@ -1,0 +1,40 @@
+.box {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    background-size: 20px;
+    background-image: url(https://dorsiafinance.co.uk/wp-content/uploads/10-Facts-About-Mercedes-Benz.webp);
+    background-repeat: repeat;
+    border: 1px solid black;
+}
+.box2 {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    background-size: 20px;
+    background-image: url(https://dorsiafinance.co.uk/wp-content/uploads/10-Facts-About-Mercedes-Benz.webp);
+    background-repeat: repeat-x;
+    border: 1px solid black;
+}
+.box3 {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    background-size: 20px;
+    background-image: url(https://dorsiafinance.co.uk/wp-content/uploads/10-Facts-About-Mercedes-Benz.webp);
+    background-repeat: repeat-y;
+    border: 1px solid black;
+}
+.box4 {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    background-size: 20px;
+    background-image: url(https://dorsiafinance.co.uk/wp-content/uploads/10-Facts-About-Mercedes-Benz.webp);
+    background-repeat: no-repeat;
+    border: 1px solid black;
+}
